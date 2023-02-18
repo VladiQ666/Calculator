@@ -23,7 +23,7 @@ switch (operator) {
         }
         break;
     default:
-        result = ('Че ты пишешь, черт');
+        result = ('Че ты пишешь, говноед');
         break;
 }
 
